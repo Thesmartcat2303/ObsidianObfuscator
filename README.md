@@ -23,7 +23,7 @@
 
 ## 🎥 Introduction
 For a detailed overview and demonstration of Obsidian's capabilities, watch our introductory video:  
-👉 [**Obsidian Obfuscator Demo**](https://youtube.com/shorts/XvR0d9wzkYY?si=_MdNRsNJ7ZexNI4d)
+👉 [**Obsidian Obfuscator Demo**](https://youtube.com/shorts/bt37Pj0TgNA?si=3c6m6EIkC_lYrrDi)
 
 ---
 
