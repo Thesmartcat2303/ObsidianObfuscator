@@ -2,7 +2,7 @@
 
 > **Owners:** TheSmartCat, Mano, NguoiAnhEm
 
-![Obsidian Banner](https://raw.githubusercontent.com/Thesmartcat2303/ObsidianObfuscator/refs/heads/main/example.png)
+![Obsidian](https://raw.githubusercontent.com/Thesmartcat2303/ObsidianObfuscator/refs/heads/main/example.png)
 
 **Obsidian Obfuscator** is a specialized, closed-source tool designed to protect Python source code. It combines advanced AST manipulation, multiple encoding layers, and runtime checks to prevent reverse engineering, debugging, and unauthorized tampering.
 
