@@ -10,7 +10,7 @@
 
 ## 🔒 Closed Source
 > **Note:** Obsidian is currently a closed-source project.  
-> The source code is not publicly available at this time.
+> The source code is not available at this time.
 
 ---
 
